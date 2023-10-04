@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React and JavaScript and HTML and CSS**
 
-- 📫 How to reach me **kroo.2394@gmail.com**
+- 📫 How to reach me **kateridgle2394@gmail.com**
 
 - ⚡ Fun fact **I taught myself to play Piano in 3 weeks!**
 
