@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **anything and everything!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kateridgle](https://github.com/kateridgle)
-
 - 💬 Ask me about **React and JavaScript and HTML and CSS**
 
 - 📫 How to reach me **kateridgle2394@gmail.com**
